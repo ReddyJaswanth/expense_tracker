@@ -16,6 +16,7 @@
 
 .search-input {
   flex: 1;
+  color: black
 }
 
 .category-filter,
